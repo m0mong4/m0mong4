@@ -13,7 +13,7 @@
 
 - Second year computer science student at IUT Grand Ouest Normandie
 
-- You can see all of my project here : <a href=https://github.com/m0mong4?tab=repositories /> click here ! <a>
+- You can see all of my project here : <a href=https://github.com/m0mong4?tab=repositories target="_blank" rel="rep">> click here ! <a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
