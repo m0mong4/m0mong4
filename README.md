@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Iria De Meyer</h1>
-<h3 align="center">An IT student from France!</h3>
+<h1 align="center">Hi ⊹ ࣪ ˖ , I'm Iria De Meyer</h1>
+<h3 align="center">˚.⋆꒰১ An IT student from France! ໒꒱⋆.˚</h3>
 
 <img align="right" width="300" alt="Image" src="https://github.com/user-attachments/assets/bed435db-57cf-427b-8b9c-d9e26049b6aa" />
 
