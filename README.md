@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dcc2fef5-adb9-410f-b65f-a44c39e9e0e4" alt="Iria avatar" width="120" />
-</p>
 
-<h1 align="center">Hi ⊹ ࣪ ˖ , I'm Iria De Meyer</h1>
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/dcc2fef5-adb9-410f-b65f-a44c39e9e0e4" alt="Iria avatar" width="100" align="middle" />
+  Hi ⊹ ࣪ ˖ , I'm Iria De Meyer
+</h1>
 <h3 align="center">˚.⋆꒰১ An IT student from France! ໒꒱⋆.˚</h3>
 
 <img align="right" width="300" alt="Image" src="https://github.com/user-attachments/assets/bed435db-57cf-427b-8b9c-d9e26049b6aa" />
