@@ -9,7 +9,7 @@
 
 - mail : **iriademeyer@orange.fr**
 
-- I love anime/manga, drawing and playing video games!
+- I love anime/manga, drawing and playing video games! <img src="https://github.com/user-attachments/assets/d3e5c15a-1ac1-44a1-9d8c-fdd87baf0cf6" alt="" height="22" align="top" />
 
 - Second year computer science student at IUT Grand Ouest Normandie
 
