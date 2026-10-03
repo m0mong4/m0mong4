@@ -7,7 +7,7 @@
 
 - I love anime/manga, drawing and playing video games!
 
-- Second year BUT Informatique student at Unicaen
+- Second year computer science student at IUT Grand Ouest Normandie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
