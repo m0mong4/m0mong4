@@ -3,7 +3,7 @@
 
 - mail : **iriademeyer@orange.fr**
 
-- ⚡ Fun fact **I'm a chiikawa addict**
+- I love anime/manga, drawing and playing video games!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
