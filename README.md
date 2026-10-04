@@ -7,15 +7,15 @@
 
 <img align="right" width="300" alt="Image" src="https://github.com/user-attachments/assets/bed435db-57cf-427b-8b9c-d9e26049b6aa" />
 
-- mail : **iriademeyer@orange.fr**
+- Mail : **iriademeyer@orange.fr**
 
 - I love anime/manga, drawing and playing video games! <img src="https://github.com/user-attachments/assets/d3e5c15a-1ac1-44a1-9d8c-fdd87baf0cf6" alt="" height="22" align="top" />
 
 - Second year computer science student at IUT Grand Ouest Normandie
 
-- My current website (not finished) : <a href="https://m0mong4.github.io/My-website-for-Fun" target="_blank">Click here!</a>
+- My current website (not finished) : <a href="https://m0mong4.github.io/My-website-for-Fun" target="_blank">Click here!</a> (˶˃𐃷˂˶)
 
-- You can see all of my projects here: <a href="https://github.com/m0mong4?tab=repositories" target="_blank">Click here!</a>
+- You can see all of my projects here: <a href="https://github.com/m0mong4?tab=repositories" target="_blank">Click here!</a> ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 
 <h3 align="left">Connect with me:</h3>
