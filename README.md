@@ -13,7 +13,10 @@
 
 - Second year computer science student at IUT Grand Ouest Normandie
 
+- <a href="[https://github.com/m0mong4?tab=repositories](https://m0mong4.github.io/My-website-for-Fun/)" target="_blank">Click here!</a>
+
 - You can see all of my projects here: <a href="https://github.com/m0mong4?tab=repositories" target="_blank">Click here!</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
