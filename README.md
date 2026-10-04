@@ -13,7 +13,7 @@
 
 - Second year computer science student at IUT Grand Ouest Normandie
 
-- My current website : <a href="https://m0mong4.github.io/My-website-for-Fun" target="_blank">Click here!</a>
+- My current website (not finished) : <a href="https://m0mong4.github.io/My-website-for-Fun" target="_blank">Click here!</a>
 
 - You can see all of my projects here: <a href="https://github.com/m0mong4?tab=repositories" target="_blank">Click here!</a>
 
